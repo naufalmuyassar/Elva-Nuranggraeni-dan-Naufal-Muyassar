@@ -53,7 +53,7 @@ html {
   font-family: 'Rouge Script', sans-serif;
   font-weight: 700;
   transform: rotate(-2deg);
-  font-size: 5rem;
+  font-size: 3rem;
   padding-bottom: 5px;
   color: whitesmoke;
 }
@@ -125,7 +125,7 @@ html {
 }
 
 .main-content {
-  padding-top: 2rem;
+  padding-top: 0.1rem;
   color: #000; 
   font-family: 'Raleway', sans-serif;
 }
@@ -207,7 +207,7 @@ html {
 }
 
 .main-content .section-light {
-  padding: 80px 40px;
+  padding: 20px 60px;
 }
 
 .main-content .section-light.regular-section {
@@ -215,7 +215,7 @@ html {
 }
 
 .main-content .section-light.regular-section .is-larger {
-  font-size: 1.2rem;
+  font-size: 1rem;
 }
 
 @media (max-width: 599px) {
