@@ -565,7 +565,7 @@ body.preloader-site {
 
 
 .foto1 {
-  background-image: linear-gradient(rgba(48, 47, 47, 0.9), url("https: //github.com/naufalmuyassar/Undangan-1.6/raw/master/asset/1.jpg");
+  background-image: url("https: //github.com/naufalmuyassar/Undangan-1.6/raw/master/asset/1.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -574,7 +574,7 @@ body.preloader-site {
 
 
 .foto2 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url(".../asset/s-2.jpg");
+  background-image: url("https://github.com/naufalmuyassar/Undangan-1.6/raw/master/asset/s-2.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -582,7 +582,7 @@ body.preloader-site {
 }
 
 .foto3 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url(".../asset/en2.jpg");
+  background-image: url("https://github.com/naufalmuyassar/Undangan-1.6/raw/master/asset/en2.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -590,7 +590,7 @@ body.preloader-site {
 }
 
 .foto4 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url(".../asset/s-3.jpg");
+  background-image: url("https://github.com/naufalmuyassar/Undangan-1.6/raw/master/asset/s-3.jpg");
   background-size: cover;
   background-position: top;
   background-repeat:no-repeat;
@@ -598,7 +598,7 @@ body.preloader-site {
 }
 
 .foto5 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url(".../asset/2.jpg");
+  background-image: url("https://github.com/naufalmuyassar/Undangan-1.6/raw/master/asset/2.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
@@ -607,7 +607,7 @@ body.preloader-site {
 
 
 .foto6 {
-  background-image: linear-gradient(rgba(95, 2, 2, 0.5), rgba(48, 47, 47, 0.9)), url("../image/sofia-handy-4.jpg");
+  background-image:  url("../image/sofia-handy-4.jpg");
   background-size: cover;
   background-position: center;
   background-repeat:no-repeat;
